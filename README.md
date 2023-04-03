@@ -1,6 +1,6 @@
 - 🫒 Hi, I'm Katerina 
 - 🫒 I'm currently interested in reverse engineering and malware analysis
-- 🫒 I also really like lain :) 
+- 🫒 Blog: https://c4terina.github.io/Blog/
 
 <!---
 C4Terina/C4Terina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
