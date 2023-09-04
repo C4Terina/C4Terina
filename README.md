@@ -1,5 +1,5 @@
 - 🫒 Hi, I'm Katerina 
-- 🫒 I'm currently interested in reverse engineering and malware analysis
+- 🫒 I'm currently interested in improving my skills in C++
 - 🫒 Website: https://c4terina.github.io/blog/
 
 <!---
