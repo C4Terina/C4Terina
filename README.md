@@ -1,5 +1,5 @@
 - 🫒 Hi, I'm Katerina 
-- 🫒 I'm currently interested in improving my skills in C++
+- 🫒 I'm currently interested in improving my skills in Go
 - 🫒 Website: https://c4terina.github.io/blog/
 
 <!---
